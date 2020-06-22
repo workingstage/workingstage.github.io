@@ -1,2 +1,2 @@
 # Taimi
-Taimi ist eine junge, quirlige Asura.
+Taimi ist eine junge und quirlige Asura.
