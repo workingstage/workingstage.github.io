@@ -6,3 +6,6 @@ Taimi ist eine junge, quirlige Asura.
 * Schraddels Freundin
 * experimentiert gerne
 * hat Zöpfe
+
+## Taimi sagt gerne:
+> Habt Ihr Bonbons?
